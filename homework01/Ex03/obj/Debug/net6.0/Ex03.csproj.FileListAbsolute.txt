@@ -1,0 +1,15 @@
+C:\Csharp\homework01\Ex03\bin\Debug\net6.0\Ex03.exe
+C:\Csharp\homework01\Ex03\bin\Debug\net6.0\Ex03.deps.json
+C:\Csharp\homework01\Ex03\bin\Debug\net6.0\Ex03.runtimeconfig.json
+C:\Csharp\homework01\Ex03\bin\Debug\net6.0\Ex03.dll
+C:\Csharp\homework01\Ex03\bin\Debug\net6.0\Ex03.pdb
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\Ex03.csproj.AssemblyReference.cache
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfoInputs.cache
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfo.cs
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\Ex03.csproj.CoreCompileInputs.cache
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\Ex03.dll
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\refint\Ex03.dll
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\Ex03.pdb
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\Ex03.genruntimeconfig.cache
+C:\Csharp\homework01\Ex03\obj\Debug\net6.0\ref\Ex03.dll
