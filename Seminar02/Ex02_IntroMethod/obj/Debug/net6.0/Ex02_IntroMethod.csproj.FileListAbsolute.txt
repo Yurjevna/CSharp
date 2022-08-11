@@ -1,0 +1,15 @@
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\Ex02_IntroMethod.csproj.AssemblyReference.cache
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\Ex02_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\Ex02_IntroMethod.AssemblyInfoInputs.cache
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\Ex02_IntroMethod.AssemblyInfo.cs
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\Ex02_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Csharp\Seminar02\Ex02_IntroMethod\bin\Debug\net6.0\Ex02_IntroMethod.exe
+C:\Csharp\Seminar02\Ex02_IntroMethod\bin\Debug\net6.0\Ex02_IntroMethod.deps.json
+C:\Csharp\Seminar02\Ex02_IntroMethod\bin\Debug\net6.0\Ex02_IntroMethod.runtimeconfig.json
+C:\Csharp\Seminar02\Ex02_IntroMethod\bin\Debug\net6.0\Ex02_IntroMethod.dll
+C:\Csharp\Seminar02\Ex02_IntroMethod\bin\Debug\net6.0\Ex02_IntroMethod.pdb
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\Ex02_IntroMethod.dll
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\refint\Ex02_IntroMethod.dll
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\Ex02_IntroMethod.pdb
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\Ex02_IntroMethod.genruntimeconfig.cache
+C:\Csharp\Seminar02\Ex02_IntroMethod\obj\Debug\net6.0\ref\Ex02_IntroMethod.dll
