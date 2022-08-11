@@ -1,0 +1,15 @@
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\Ex04_MethodArray.csproj.AssemblyReference.cache
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\Ex04_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\Ex04_MethodArray.AssemblyInfoInputs.cache
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\Ex04_MethodArray.AssemblyInfo.cs
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\Ex04_MethodArray.csproj.CoreCompileInputs.cache
+C:\Csharp\Seminar02\Ex04_MethodArray\bin\Debug\net6.0\Ex04_MethodArray.exe
+C:\Csharp\Seminar02\Ex04_MethodArray\bin\Debug\net6.0\Ex04_MethodArray.deps.json
+C:\Csharp\Seminar02\Ex04_MethodArray\bin\Debug\net6.0\Ex04_MethodArray.runtimeconfig.json
+C:\Csharp\Seminar02\Ex04_MethodArray\bin\Debug\net6.0\Ex04_MethodArray.dll
+C:\Csharp\Seminar02\Ex04_MethodArray\bin\Debug\net6.0\Ex04_MethodArray.pdb
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\Ex04_MethodArray.dll
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\refint\Ex04_MethodArray.dll
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\Ex04_MethodArray.pdb
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\Ex04_MethodArray.genruntimeconfig.cache
+C:\Csharp\Seminar02\Ex04_MethodArray\obj\Debug\net6.0\ref\Ex04_MethodArray.dll

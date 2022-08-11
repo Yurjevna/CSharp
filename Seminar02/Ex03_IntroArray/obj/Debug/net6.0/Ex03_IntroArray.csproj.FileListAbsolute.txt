@@ -1,0 +1,15 @@
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\Ex03_IntroArray.csproj.AssemblyReference.cache
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\Ex03_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\Ex03_IntroArray.AssemblyInfoInputs.cache
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\Ex03_IntroArray.AssemblyInfo.cs
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\Ex03_IntroArray.csproj.CoreCompileInputs.cache
+C:\Csharp\Seminar02\Ex03_IntroArray\bin\Debug\net6.0\Ex03_IntroArray.exe
+C:\Csharp\Seminar02\Ex03_IntroArray\bin\Debug\net6.0\Ex03_IntroArray.deps.json
+C:\Csharp\Seminar02\Ex03_IntroArray\bin\Debug\net6.0\Ex03_IntroArray.runtimeconfig.json
+C:\Csharp\Seminar02\Ex03_IntroArray\bin\Debug\net6.0\Ex03_IntroArray.dll
+C:\Csharp\Seminar02\Ex03_IntroArray\bin\Debug\net6.0\Ex03_IntroArray.pdb
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\Ex03_IntroArray.dll
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\refint\Ex03_IntroArray.dll
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\Ex03_IntroArray.pdb
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\Ex03_IntroArray.genruntimeconfig.cache
+C:\Csharp\Seminar02\Ex03_IntroArray\obj\Debug\net6.0\ref\Ex03_IntroArray.dll
