@@ -1,0 +1,15 @@
+C:\Csharp\homework07\HW07_Ex03\bin\Debug\net6.0\HW07_Ex03.exe
+C:\Csharp\homework07\HW07_Ex03\bin\Debug\net6.0\HW07_Ex03.deps.json
+C:\Csharp\homework07\HW07_Ex03\bin\Debug\net6.0\HW07_Ex03.runtimeconfig.json
+C:\Csharp\homework07\HW07_Ex03\bin\Debug\net6.0\HW07_Ex03.dll
+C:\Csharp\homework07\HW07_Ex03\bin\Debug\net6.0\HW07_Ex03.pdb
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\HW07_Ex03.csproj.AssemblyReference.cache
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\HW07_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\HW07_Ex03.AssemblyInfoInputs.cache
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\HW07_Ex03.AssemblyInfo.cs
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\HW07_Ex03.csproj.CoreCompileInputs.cache
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\HW07_Ex03.dll
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\refint\HW07_Ex03.dll
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\HW07_Ex03.pdb
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\HW07_Ex03.genruntimeconfig.cache
+C:\Csharp\homework07\HW07_Ex03\obj\Debug\net6.0\ref\HW07_Ex03.dll
